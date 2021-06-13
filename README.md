@@ -9,13 +9,11 @@
 > * Низкая цена
 
 JavaScripts:
-
 ```
 <script src="https://localhost/neuro.sdk.min.js"></script>
 ```
 
 Java (Maven):
-
 ```
 <dependency>
   <groupId>neuro</groupId>
